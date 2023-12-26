@@ -10,7 +10,7 @@ const page = ({ params }) => {
   useEffect(() => {
     async function getData() {
       try {
-        const res = await fetch(`http://localhost:3000/api/movie/${id}`, {
+        const res = await fetch(`/api/movie/${id}`, {
           method: 'GET',
           headers: {
             // 'Content-Type': 'application/json', // Check if this is needed
