@@ -1,0 +1,122 @@
+[
+    {
+        "name":"A Series of Unfortunate Events",
+        "type":"Show",
+        "image":"https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABW89q_iPj98LfXcAYBB896x_OcloWZVOU2r7VGzIBDwtAEtCEfyt-C8Y0XOfyw1D3ThokztpCX7mTCfOfOkte_aaQs3c0_8hccQg.webp?r=894",
+        "des":"The extraordinary Baudelaire orphans face trials, tribulations and the evil Count Olaf in their fateful quest to unlock long-held family secrets."
+    },
+    {
+        "name":"Fuller House" ,
+        "type":"Show" ,
+        "image":"https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVYlTvW9M4WeuerHfG9YmFSh_YgWDPK2GJqYyc5W3uF4-FLBrZQZiTYeaDdNCK2qn6kP52laGw1hKR6Pv5Di2x2xsdle3S8fURRV.webp?r=9bd" ,
+        "des":"The Tanner family’s adventures continue as DJ Tanner-Fuller shares a home with her sister Stephanie and friend Kimmy who help raise her three boys."
+    },
+    {
+        "name":"Stranger Things" ,
+        "type":"Show" ,
+        "image":"https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSpqYf-qwjTo6Bv_bRrj9_-f_Pi-CYcNZ1ICnyrp7a8CD2Cu4TyrntigqIw7CMFMj8f_Lr3zHq6G2WtkHs_bc8vsqISuGHe4lFyT.webp?r=fc0" ,
+        "des":"When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl."
+    },
+    {
+        "name":"Greenhouse Academy" ,
+        "type":"Show" ,
+        "image":"https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfTz-O_ZFmfBADrBBH-P2_WrpyrooN5AlymAekGqbWrsZQfVEcdiBx4tsxKGsPLtfIl0rVMydyOoNdrTuceOTfW4sbdE8QGAhw5B.webp?r=2d6" ,
+        "des":"When teen siblings Hayley and Alex enter an elite boarding school, they find rivalry, romance and a mystery related to the recent loss of their mom."
+    },
+    {
+        "name":"Big Mouth" ,
+        "type":"Show" ,
+        "image":"https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABRvUUBQU_le1XcTIguLBvtqF4545f0QVXXxnsnlRHM1cOVWhfzB5omDGnUkDJUQyylb14144WTgqXTyk4P77cSjUK_lUJ6clLYtx.webp?r=e67" ,
+        "des":"Teenage friends find their lives upended by the wonders and horrors of puberty in this edgy comedy from real-life pals Nick Kroll and Andrew Goldberg."
+    },
+    {
+        "name": "Raising Dion" ,
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZQJChkhrUq33gM9rgkyO0cDmDKGp2qNyM7jhwJX1_6bQzcvyc_yjaEXIY3oRqNP9nUqtehM9gHZ4-MnWCXLvpG87KoSJzV-eJPc.webp?r=3e7" ,
+        "des": "A widowed mom sets out to solve the mystery surrounding her young son's emerging superpowers while keeping his extraordinary gifts under wraps."
+    },
+    {
+        "name": "The Worst Witch" ,
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABXwz1EX16CMDTEZ9KwLhUuayoG5PXhe4vxL6bkbo40i-FpOgqaO8xt6oTZ2JZ3gY07IAruAgX5rT_UKEUJ-9rXJF9pyHJkFiRwqM.webp?r=c2f" ,
+        "des": "After stumbling into a school for witches, a bumbling heroine comes to realize that she just might belong there. Based on Jill Murphy's beloved books."
+    },
+    {
+        "name": "Anne with an E" ,
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABX9suHqyxxeHgdYe8xOZgBv9V65jlbC2XpGZqvhxse4bgjoiPm_rUUZoQC0wc4s1DkRbQ__sigUJu2DCJQH8N-9vBwZmlKorRq97.webp?r=5f1" ,
+        "des": "A plucky orphan whose passions run deep finds an unlikely home with a spinster and her soft-spoken bachelor brother. Based on 'Anne of Green Gables.'"
+    },
+    {
+        "name": "Alexa & Katie" ,
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABXLjYRJTQ9gwjtzFJt93qKE5gROquOfibVUoYuQOtG4pynm20fhlEX5vm5wVWooS7QW9qMd2A8ESzDBPYk4b1WLpR-ZYDwbm-W2B.webp?r=f5e" ,
+        "des": "Alexa is battling cancer. But with her best friend, Katie, by her side, she's also starting high school -- and ready for whatever comes next."
+    },
+    {
+        "name": "Love, Death & Robots",
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZgmI58shXRAWBf-vHq3mSlO48ITsg7LagsZT2uROENaXy2KpUOf6VyxUtKCuM5mDS2N1YHj99ZZlhAROK9kBXTdqm-ctYwmQ2HH.webp?r=062" ,
+        "des": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher."
+    },
+    {
+        "name": "The End of the F***ing World",
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTHUchhnz_z4b20kCI5TeFqV_XSaT6912HsE3kqo-jVUcfTWhOmHDz06KOVtYu0Hez3d5w97SP0QToFM7Cfh1fBAa_p1fLm0eHH6.webp?r=5ac" ,
+        "des":"A budding teen psychopath and a rebel hungry for adventure embark on a star-crossed road trip in this darkly comic series based on a graphic novel."
+    },
+    {
+        "name": "Never Have I Ever",
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQwnxYSV_v-tkLBbd9eJJktzoJYwvz6cmxTlBhOVYDyrj1QN6DuViGxchzLS3Oer0wP2WcSt9gmPJfT_V0ZBdDfSkO3P8ojZG2q-.webp?r=e6c" ,
+        "des": "After a traumatic year, an Indian-American teen just wants to spruce up her social status — but friends, family and feelings won’t make it easy on her."
+    },
+    {
+        "name": "The Umbrella Academy",
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYmE41JCb_Kn_QJQ2HxOqaEehsylehX71KhSzpkPCUjRR7n0mhDwulrJ1XHReio5ni-rgjEwf8kQHOBR7LXhl1wwl236u0Gx5ar6.webp?r=317" ,
+        "des":"Reunited by their father's death, estranged siblings with extraordinary powers uncover shocking family secrets -- and a looming threat to humanity."
+    },
+    {
+        "name": "The Witcher",
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSzFqrewVma8qubSm2ufZ5Y8-Q8s32hhyv7zOLJZIbqp_0FwjVn0kE1ZvNxJfk3hmTPqgz_4C9d48OIXS9FNiZ-COLqm9edtB8dFgcijpFjJn5w4T6mfmY8yNg.webp?r=6a6" ,
+        "des": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts."
+    },
+    {
+        "name": "Money Heist",
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQnCKOBbn0D156dJyzFieTcRtxJ-dA63uK6Bi1nBcZRwDPuUY2fjaUDh3KsR0X-7BKGJoqgxy-aq1BMODDW1m9poDaNZM34dZ9Ks.webp?r=2ac" ,
+        "des": "Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a criminal mastermind manipulates the police to carry out his plan."
+    },
+    {
+        "name": "Sex Education",
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABb72BjNJbbDe9A0JGAs-ELYHqcgAuA7Ve8Rjb6VX0g_c110iElUeXgsI7pzptQMUTNxQSvf3EOShdV08xnFMXfrb29t-OSe7Hjko.webp?r=bfc" ,
+        "des": "Insecure Otis has all the answers when it comes to sex advice, thanks to his therapist mom. So rebel Maeve proposes a school sex-therapy clinic."
+    },
+    {
+        "name": "Beyond Stranger Things",
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSpC47RXb8ajqsu_nlQZvg5bVQqEAOeNJ3GiMl6j8oqjCvpoQFd7zxdnZBrc8hp2Xxt8DUL5i0X5yV9jYy1Rj1-RiWIyWfWB2h9z.webp?r=18b" ,
+        "des": "Secrets from the 'Stranger Things 2' universe are revealed as cast and guests discuss the latest episodes with host Jim Rash. Caution: spoilers ahead!"
+    },
+    {
+        "name": "Twelve Forever" ,
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfzPD44nxI-VBzJEhGRRtEQQIgzdPNGqa5iCIpmfgv0NivJJU9opwJKq6pvOtK3deXu1qTKyQ6LtgIqu0-EqbDXqRJbfl4oUFkzR.webp?r=2ad" ,
+        "des": "Reggie's wild imagination unlocks a weird and wonderful world where she can be herself -- and escape the pressures of growing up."
+    },
+    {
+        "name": "Ricky Gervais: SuperNature" ,
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYmUzW91HZLVWKhSfcQtmD6S3jxGgEFZGw1pBprGdSBCyalYGB57vMwAqyXzyacjLZQXjmT2BKyEDDlQWEoSjS5CazNR0rUGoPVX.webp?r=0c6" ,
+        "des": "Ricky Gervais gives his take on the rules of comedy, spoiling his cats and how super actual nature is in his second Netflix stand-up special."
+    },
+    {
+        "name": "Julie and the Phantoms" ,
+        "type": "Show" ,
+        "image": "https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUdZj5ULvbnPbmxTGIbRZrXvQDxpWybWfr76dcFxq2dYPRjnl3h9m_lt0LOqNgnlfpjyTxB2rK0fP6keXUeKO-ZQrQEcl_AilOzp.webp?r=1ee" ,
+        "des": "Julie lost her passion for music when she lost her mom. But when three ghostly guys appear and lift her spirits, they decide to start a band together!"
+    }
+]

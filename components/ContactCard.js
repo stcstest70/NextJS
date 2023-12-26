@@ -1,4 +1,4 @@
-import styles from '../contact/contact.module.css'
+import styles from '../styles/contact.module.css'
 import { MdEmail, MdVoiceChat, MdForum } from "react-icons/md";
 import Link from "next/link";
 
